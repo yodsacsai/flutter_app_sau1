@@ -6,8 +6,8 @@ void main() {
   runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: FirstUI(), //เรียกหน้าจอแรก
-      
+      home: SecondUI(), //เรียกหน้าจอแรก
+
     ),
   );
 }
