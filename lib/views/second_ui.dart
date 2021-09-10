@@ -92,7 +92,7 @@ class _SecondUIState extends State<SecondUI> {
                 Icons.access_alarms,
               ),
               trailing: Text(
-                '999',
+                '888',
                 style: TextStyle(
                   color: Colors.red,
                   fontWeight: FontWeight.bold,
